@@ -19,5 +19,5 @@ let package = Package(
             path: "SkyFloatingLabelTextField/SkyFloatingLabelTextFieldTests"
         )
     ],
-    swiftLanguageVersions: [.v4_2]
+    swiftLanguageVersions: [.v5]
 )
